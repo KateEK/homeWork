@@ -139,11 +139,3 @@ hypnosis.addEventListener('mouseover', HypnosisonMouseMove);
 
 hypnosis.addEventListener('mouseout', HypnosisonMouseOut);
 
-/**
- *
- * расчет выплат по кредиту
- * в поле ввода вводим сумму кредита и
- * рядом появляется график который показывает сколько денег мы получили в кредит
- * и сколько надо будет отдать, через год, при 12% годовых по кредиту
- *
- */
