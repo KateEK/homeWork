@@ -1,0 +1,40 @@
+/*body {*/
+    /*padding: 0;*/
+    /*margin: 0;*/
+    /*display: flex;*/
+    /*justify-content: center;*/
+    /*align-items: center;*/
+
+/*}*/
+
+/*.wrapper {*/
+    /*margin-left: 50px;*/
+    /*margin-top: 50px;*/
+
+
+.wrapper {
+    width: 900px;
+    margin: 200px auto auto;
+}
+
+.smoothTransition {
+    background: #555674;
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+
+}
+
+.hypnosis{
+    background: #335678;
+    display: inline-block;
+    height: 400px;
+    width: 400px;
+    margin-right: 80px;
+    border-radius: 50%;
+}
+
+.turn:hover{
+    transition: transform 5s linear;
+    transform: rotate(10turn);
+}
